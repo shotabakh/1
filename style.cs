@@ -9,5 +9,6 @@ body {
 }
 .full-width-image {
     width: 100%;
+    width: 100%;
     height: auto;
 }
