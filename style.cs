@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(115, 255, 0);
 }
 
 body {
